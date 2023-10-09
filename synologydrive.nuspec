@@ -8,7 +8,7 @@
     <title>Synology Drive Client</title>
     <authors>Synology</authors>
     <projectUrl>https://www.synology.com/en-us/dsm/feature/drive</projectUrl>
-	<iconUrl>http://rawcdn.githack.com/ArcasCZ/pritunl-client-choco/master/icons/pritunl-client.png</iconUrl>
+	<iconUrl>http://rawcdn.githack.com/ArcasCZ/synology-drive-choco/master/icons/synology-drive-client.png</iconUrl>
     <tags>synologydrive synology drive cloudstation cloud station</tags>
     <description>Synology Drive is the leatest version for Cloud Station. It is an application which sync files between your computers and Synology NAS via the Internet, so that your data and documents are always up-to-date and stay beside you. Even without an Internet connection, you can still view or edit your files within the specific folder offline, and all the changes will be automatically synced to your Synology NAS and other computers when the Internet connection is restored.</description>
     <summary>Synology Drive is the leatest version for Cloud Station. It is an application which sync files between your computers and Synology NAS via the Internet.</summary>
