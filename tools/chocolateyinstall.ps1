@@ -2,8 +2,8 @@
 $ErrorActionPreference = 'Stop'
   
 $packageName = 'synologydrive'
-$url         = 'https://global.synologydownload.com/download/Utility/SynologyDriveClient/3.4.0-15724/Windows/Installer/i686/Synology%20Drive%20Client-3.4.0-15724-x86.msi'
-$checksum    = '5afeda72ca10a936df98a61ba2b54f8c1d1e767cf6e6d45382b24fd18ec77f10'
+$url         = 'https://global.synologydownload.com/download/Utility/SynologyDriveClient/3.5.0-16084/Windows/Installer/x86_64/Synology%20Drive%20Client-3.5.0-16084-x64.msi'
+$checksum    = '5fc1eb8af607fab0e77add9a5667ee60a10541cdc26c652cb292da484ade09f5'
   
 $packageArgs = @{
   packageName            = $packageName

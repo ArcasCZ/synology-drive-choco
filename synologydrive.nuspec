@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>synologydrive</id>
-    <version>3.4.0.15724</version>
+    <version>3.5.0.16084</version>
 	<packageSourceUrl>https://github.com/ArcasCZ/synology-drive-choco</packageSourceUrl>
     <owners>Vojtech.Olej</owners>
     <title>Synology Drive Client</title>
